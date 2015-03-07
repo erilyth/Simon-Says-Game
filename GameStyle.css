@@ -1,0 +1,10 @@
+canvas{
+	border-style: solid;
+	border-radius: 5px;
+	border-color: black;	
+	margin-left: 31%;
+}
+
+img{
+	display: none;
+}
